@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("안녕 내가 만든 출력이야");
 		String name = "유병승";
 		
-
 	}
 
 }
